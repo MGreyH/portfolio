@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MGreyH/portfolio/main/assets/banner-modern.png" alt="Portfolio Banner" width="80%" style="margin-bottom:2em;"/>
+  <img src="https://raw.githubusercontent.com/MGreyH/portfolio/main/assets/modern-banner.jpg" alt="Portfolio Banner" width="80%" style="margin-bottom:2em;"/>
 </div>
 
 ## 🚀 About Me
