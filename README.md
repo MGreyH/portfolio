@@ -1,4 +1,4 @@
-# MGreyH Portfolio
+# Muhammad Ibadurrahman Portfolio
 
 **Senior Engineer & Data Scientist**  
 Specializing in Python, Natural Language Processing (NLP), Machine Learning, Deep Learning, and Cybersecurity  
@@ -62,8 +62,8 @@ AI-powered IoT dashboard for real-time sensor data visualization, anomaly detect
 For business inquiries, collaborations, or to request code samples:
 
 - **Email:** rahman199732@gmail.com
-- **LinkedIn:** linkedin.com/in/mir97
-- **GitHub:** github.com/MGreyH
+- **LinkedIn:** [linkedin.com/in/mir97](https://www.linkedin.com/in/mir97/)
+- **GitHub:** [github.com/MGreyH](https://github.com/MGreyH)
 
 ---
 
