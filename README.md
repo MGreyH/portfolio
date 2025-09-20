@@ -61,9 +61,9 @@ AI-powered IoT dashboard for real-time sensor data visualization, anomaly detect
 
 For business inquiries, collaborations, or to request code samples:
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **GitHub:** [github.com/MGreyH]
+- **Email:** rahman199732@gmail.com
+- **LinkedIn:** linkedin.com/in/mir97
+- **GitHub:** github.com/MGreyH
 
 ---
 
